@@ -1,0 +1,31 @@
+{
+  "name": "MTA Playable Bosses",
+  "version": "1.0.0",
+  "target_game": "Multi Turret Academy",
+  "target_game_version": "0.9.89.1 EA",
+  "install_root": "Directory containing Multi Turret Academy.exe",
+  "units": [
+    "Tank_USSR_KV-2-2-2_Name",
+    "Tank_Germany_Pz.III Z_Name",
+    "Tank_Germany_WhiteTiger_Name",
+    "Tank_USSR_KV-6_Name",
+    "Tank_UK_TOOOOG2_Name"
+  ],
+  "files": [
+    {
+      "path": "GameAssembly.dll",
+      "size": 45737984,
+      "sha256": "8504F480367B3E562356E4A0A7C275322366D11F40D6A7A3821C7DC24B8EA9E6"
+    },
+    {
+      "path": "Multi Turret Academy_Data/StreamingAssets/aa/catalog.json",
+      "size": 1491098,
+      "sha256": "E73129C2F4FEF0E67B2AC192462359A06F1361081E3B1A22C32E4E33A7B62F20"
+    },
+    {
+      "path": "Multi Turret Academy_Data/StreamingAssets/aa/StandaloneWindows64/boss_assets_assets/gamedata/tankdata/_boss.bundle",
+      "size": 14077,
+      "sha256": "BBDCB40F990E64548D8B504F675E59860AA1F1A21E734E6B2F86714892FCE292"
+    }
+  ]
+}
