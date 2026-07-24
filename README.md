@@ -16,7 +16,7 @@ Unlocked Tanks
 Installation Instructions
 ---------
 1. Close the game completely.
-2. Extract the contents of this ZIP file into the original game folder where “Multi Turret Academy.exe” is located.
+2. Move contents of this folder into the original game folder where “Multi Turret Academy.exe” is located.
 3. If prompted to overwrite files with the same name, overwrite them all.
 4. Launch the game and set your desired tank as your player vehicle in the BOSS tab of the garage.
 
